@@ -1,3 +1,57 @@
+## 🎬 Netflix Clone
+
+*A Netflix-inspired streaming platform built with Vite & Firebase*
+
+---
+
+### 📌 Overview
+
+This project is a **front-end Netflix clone** built using **Vite and Firebase**, leveraging the **TMDB (The Movie Database) API** to fetch and display real movie and TV show data. The app focuses on authentication, dynamic content, and a familiar streaming-style user experience.
+
+---
+
+### ✨ Features
+
+* 🎥 Movie and TV show browsing powered by TMDB API
+* 👤 User authentication with Firebase
+* 🔐 Login and user profile support
+* 📂 Dynamic categories and featured content
+* ⚡ Fast, modern UI with Vite
+
+---
+
+### 🛠️ Tech Stack
+
+| Technology         | Purpose                          |
+| ------------------ | -------------------------------- |
+| **React**          | Component-based UI               |
+| **Vite**           | Fast development & build tooling |
+| **Firebase**       | Authentication & user management |
+| **TMDB API**       | Movie and TV show data           |
+| **CSS / Tailwind** | Styling and responsive layout    |
+
+---
+
+### 🧠 What I Learned
+
+* Integrating third-party APIs into a React app
+* Implementing authentication with Firebase
+* Managing protected routes and user state
+* Structuring a scalable front-end application
+
+---
+
+### 🚀 Future Improvements
+
+* Personalized recommendations
+* Watchlist and favorites
+* Trailer playback
+* Enhanced profile customization
+
+---
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
